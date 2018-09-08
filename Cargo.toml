@@ -1,0 +1,8 @@
+[package]
+name = "parallel_ttor"
+version = "0.1.0"
+authors = ["Brenton Gunning <brentongunning@gmail.com>"]
+
+[dependencies]
+rand = "0.5"
+ring = "0.12"
